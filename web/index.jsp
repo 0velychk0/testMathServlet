@@ -8,11 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
   <head>
-    <title>testMathServlet</title>
+    <title>testMathServlet version 6 !</title>
   </head>
   <body>
-  testMathServlet works, test it:<br>
-  <a href="http://localhost:8080/testMathServlet_war_exploded/sum?a=5&b=4">sum</a> <br>
-  <a href="http://localhost:8080/testMathServlet_war_exploded/mult?a=5&b=4">mult</a> <br>
+  testMathServlet, test it:<br>
+  <a href="../sum?a=5&b=4">sum</a> <br>
+  <a href="../mult?a=5&b=4">mult</a> <br>
   </body>
 </html>
