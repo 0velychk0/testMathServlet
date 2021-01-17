@@ -7,7 +7,8 @@
           <element id="module-output" name="testMathServlet" />
         </element>
       </element>
-      <element id="file-copy" path="$PROJECT_DIR$/web/index.jsp" />
+      <element id="javaee-facet-resources" facet="testMathServlet/web/Web" />
+      <element id="javaee-facet-resources" facet="testMathServlet/javaeeApplication/javaEEApplication" />
     </root>
   </artifact>
 </component>

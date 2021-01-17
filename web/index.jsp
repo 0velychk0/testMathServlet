@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
   <head>
-    <title>testMathServlet version 6 !</title>
+    <title>testMathServlet version 8 !</title>
   </head>
   <body>
   testMathServlet, test it:<br>
